@@ -18,6 +18,10 @@ A modern, full-stack newsletter platform for discovering, reading, and sharing c
 
 ---
 
+<img src="./NewLetter-image.png">
+
+---
+
 ## Overview
 
 **NewsLetter** is a web application designed to streamline the process of subscribing to, reading, and sharing newsletters. Users can explore trending topics, read the latest articles, and manage their subscriptions-all from a clean, responsive interface.
